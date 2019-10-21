@@ -1,4 +1,4 @@
-# ETFCalc
+# Realtime-Snow Shader
 Realtime snow simulation including snow accumulation and deformation.
 
 
